@@ -34,7 +34,7 @@ The ER diagram shows the relationship between the three tables: Students, Course
 - One course can have many enrollments.
 - The Enrollments table connects Students and Courses using foreign keys.
 
-![ER Diagram](ER_Diagram.png)
+![ER Diagram](ER_Diagram..png)
 
 ## CTE Implementations
 
