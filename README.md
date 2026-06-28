@@ -58,10 +58,10 @@ The ER diagram shows the relationship between the three tables: Students, Course
 - LEAD()
 - NTILE()
 - CUME_DIST()
+## Analysis
 
-## Analysis and Findings
+This project demonstrates how SQL Common Table Expressions (CTEs) and Window Functions can be applied in a Student Information System. The CTEs simplify complex queries and improve query readability, while Window Functions are used to rank students, calculate cumulative values, and generate analytical reports based on student marks. These SQL techniques help analyze academic performance and support better educational decision-making.
 
-The project demonstrates how SQL CTEs and Window Functions can simplify complex queries and generate analytical reports. These techniques help analyze student performance efficiently.
 
 ## References
 
